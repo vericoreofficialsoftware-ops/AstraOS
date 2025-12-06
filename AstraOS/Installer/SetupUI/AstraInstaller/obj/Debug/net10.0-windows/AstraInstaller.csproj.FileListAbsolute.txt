@@ -1,0 +1,14 @@
+C:\AstraOS\Installer\SetupUI\AstraInstaller\bin\Debug\net10.0-windows\AstraInstaller.exe
+C:\AstraOS\Installer\SetupUI\AstraInstaller\bin\Debug\net10.0-windows\AstraInstaller.deps.json
+C:\AstraOS\Installer\SetupUI\AstraInstaller\bin\Debug\net10.0-windows\AstraInstaller.runtimeconfig.json
+C:\AstraOS\Installer\SetupUI\AstraInstaller\bin\Debug\net10.0-windows\AstraInstaller.dll
+C:\AstraOS\Installer\SetupUI\AstraInstaller\bin\Debug\net10.0-windows\AstraInstaller.pdb
+C:\AstraOS\Installer\SetupUI\AstraInstaller\obj\Debug\net10.0-windows\AstraInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\AstraOS\Installer\SetupUI\AstraInstaller\obj\Debug\net10.0-windows\AstraInstaller.AssemblyInfoInputs.cache
+C:\AstraOS\Installer\SetupUI\AstraInstaller\obj\Debug\net10.0-windows\AstraInstaller.AssemblyInfo.cs
+C:\AstraOS\Installer\SetupUI\AstraInstaller\obj\Debug\net10.0-windows\AstraInstaller.csproj.CoreCompileInputs.cache
+C:\AstraOS\Installer\SetupUI\AstraInstaller\obj\Debug\net10.0-windows\AstraInstaller.dll
+C:\AstraOS\Installer\SetupUI\AstraInstaller\obj\Debug\net10.0-windows\refint\AstraInstaller.dll
+C:\AstraOS\Installer\SetupUI\AstraInstaller\obj\Debug\net10.0-windows\AstraInstaller.pdb
+C:\AstraOS\Installer\SetupUI\AstraInstaller\obj\Debug\net10.0-windows\AstraInstaller.genruntimeconfig.cache
+C:\AstraOS\Installer\SetupUI\AstraInstaller\obj\Debug\net10.0-windows\ref\AstraInstaller.dll
